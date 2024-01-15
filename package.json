@@ -1,0 +1,21 @@
+{
+  "name": "vonage-click-to-call",
+  "version": "1.0.0",
+  "description": "Vonage Click to Call",
+  "main": "index.js",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Katsumi Takahashi",
+  "license": "ISC",
+  "dependencies": {
+    "@vonage/jwt": "^1.8.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2"
+  }
+}

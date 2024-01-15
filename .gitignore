@@ -1,0 +1,4 @@
+node_modules/
+vonage_app.json
+private.key
+.env
